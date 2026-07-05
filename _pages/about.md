@@ -7,8 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in the Department of Industrial Engineering and Decision Analytics (IEDA) at the Hong Kong University of Science and Technology (HKUST). I received my Bachelor of Science degree in Biostatistics from the School of Mathematical Sciences at Peking University.
+I am a Ph.D. student in the Department of Industrial Engineering and Decision Analytics (IEDA) at the Hong Kong University of Science and Technology (HKUST). I received my Bachelor of Science degree in Biostatistics from the School of Mathematical Sciences at Peking University in 2026.
 
-My research interests lie in **optimization** and **large language models**. This is a test sentence.
+My research is broadly motivated by **AI for Science**. Within this theme, I am particularly interested in **optimization**, **large language models**, and **statistical learning**. I have a strong preference for research with clear mathematical theory and interpretability, rather than purely observational findings.
 
-Please feel free to reach out at 1977845485@qq.com. The previous mail address, which is lyusunkai@stu.pku.edu.cn is abandoned.
+I have a solid foundation in **statistics**, **computer science**, and **mathematics**, which enables me to engage in professional discussions and research across these areas. I am very open to related research directions and welcome opportunities for collaboration.
+
+Please feel free to reach out at [1977845485@qq.com](mailto:1977845485@qq.com). (Note: my previous Peking University student email is no longer in use.)
