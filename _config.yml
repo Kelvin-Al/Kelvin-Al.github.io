@@ -24,13 +24,13 @@ repository               : "Kelvin-Al/KelvinAl.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  name             : "Sunkai LYU"
+  pronouns         : "he/him"  
+  bio              : "PhD student in IEDA at HKUST, working on optimization and large language models."
+  location         : "Suzhou, China"
+  employer         : "HKUST"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "1977845485@qq.com" 
 
   # Academic websites
   academia         : # URL
