@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Your Name / Site Title"
+title                    : "Sunkai LYU"
 title_separator          : "-"
 name                     : &name "Sunkai LYU"
 description              : &description "I received my Bachelor of Science degree in Biostatistics from the School of Mathematical Sciences at Peking University. I am currently pursuing a Ph.D. in the Department of Industrial Engineering and Decision Analytics (IEDA) at the Hong Kong University of Science and Technology. My research interests include optimization and large language models."   # Update this with a general description of your site, this is the default if not overridden by a page
